@@ -1,2 +1,2 @@
 # odin-recipes
-Repo for odin assignment
+Explain what you did in this project, how, and what tools you learned and used.
